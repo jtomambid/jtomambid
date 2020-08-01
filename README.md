@@ -1,6 +1,6 @@
-### I'm James Marie Tomambid
+### James Marie Tomambid
 <hr>
-
+James Marie Tomambid is a PHP and JavaScript Enthusiast, graduated with a degree of Bachelor of Science in Information Technology specializes in Software Engineering at University of the Immaculate Conception 
 
 <!--
 **jtomambid/jtomambid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
