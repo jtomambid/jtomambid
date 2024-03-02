@@ -1,18 +1,21 @@
-### James Marie Tomambid
-<hr>
-James Marie Tomambid JavaScript Enthusiast, graduated with a degree of Bachelor of Science in Information Technology specializes in Software Engineering at University of the Immaculate Conception in Davao City, Philippines
+# Welcome to My GitHub Profile! 👨‍💻
 
-<!--
-**jtomambid/jtomambid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a dedicated **Software Engineer** with a passion for **UI/UX Design**, **Web Development**, and **Desktop Application Development**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **UI/UX Design:** Figma, Adobe XD, Adobe Photoshop
+- **Frontend Development:** HTML, CSS, JavaScript, ReactJS, React Native
+- **Project Management:** Jira, Trello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Philosophy
+I am a firm believer in the power of perseverance and teamwork. I approach challenges with determination and a collaborative spirit. I adhere to the belief that **learning is a continuous journey**. I live by the motto:
+
+> "If you're the smartest person in the room, you're in the wrong room."
+
+This mindset drives me to constantly update my skills and stay abreast of the latest technological trends, all while considering the unique organizational and contextual factors at play.
+
+## Connect with Me 🌐
+For more information and to see how we can collaborate on future projects, feel free to connect with me on [LinkedIn](#).
+
+Thank you for visiting my GitHub profile!
