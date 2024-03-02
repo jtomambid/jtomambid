@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
 ## About Me
-I'm a dedicated **Software Engineer** with a passion for **UI/UX Design**, **Web Development**, and **Desktop Application Development**.
+I'm a dedicated **Software Engineer** with a passion for **Web Development**, and **Mobile Development**.
 
 ### 🛠 Tech Stack
 - **UI/UX Design:** Figma, Adobe XD, Adobe Photoshop
